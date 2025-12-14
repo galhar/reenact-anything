@@ -1,0 +1,28 @@
+name: reenact
+channels:
+  - pytorch
+  - nvidia
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.11.9
+  - pip
+  - ffmpeg=6.1.1
+  - pytorch=2.4.1
+  - pytorch-cuda=12.1
+  - pip:
+    - torchvision==0.19.1
+    - diffusers==0.30.2
+    - transformers==4.44.2
+    - accelerate==0.34.2
+    - einops==0.8.0
+    - pillow==10.4.0
+    - numpy==2.0.2
+    - opencv-python==4.10.0.84
+    - imageio==2.35.1
+    - imageio-ffmpeg==0.5.1
+    - tqdm==4.66.5
+    - wandb==0.18.0
+    - xformers==0.0.28.post1
+    - packaging==24.1
+
