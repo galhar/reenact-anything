@@ -17,10 +17,10 @@
   <a href="https://mkansy.github.io/reenact-anything/">
     <img src="assets/logo_page.svg" alt="Project Page" width="125">
   </a>
-  <a href="https://arxiv.org/abs/2501.02600">
+  <a href="https://arxiv.org/abs/2408.00458">
     <img src="assets/logo_arxiv.svg" alt="arXiv" width="125">
   </a>
-  <a href="https://arxiv.org/pdf/2501.02600">
+  <a href="https://studios.disneyresearch.com/app/uploads/2025/07/Reenact-Anything-Semantic-Video-Motion-Transfer-Using-Motion-Textual-Inversion-Paper.pdf">
     <img src="assets/logo_paper.svg" alt="Paper" width="125">
   </a>
 </p>
